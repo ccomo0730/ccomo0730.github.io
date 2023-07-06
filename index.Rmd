@@ -1,0 +1,36 @@
+---
+title: "Christina Como"
+image: "frank.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/christina-como-a3840660/"
+  - label: Twitter
+    url: "https://twitter.com/ChristinaComo"
+  - label: GitHub
+    url: "https://github.com/ccomo0730"
+  - label: Email
+    url: "mailto:christina.como@cuanschutz.edu.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Frank Hermosillo studies neural networks and their applications at Google identifying the signaling mechanisms allowing for the specification of specialized meningeal fibroblasts and the signals generated from specialized meningeal fibroblasts to allow for proper neurogenesis and brain development. By knocking out the transcription factor FOXC1, a protein only made by meningeal fibroblasts and not by any neural cells, I can disrupt meninges formation that leads to significant central nervous system defects. To elucidate this cellular crosstalk, I use advanced bioinformatic and molecular analyses. Using the cutting-edge technology, spatial transcriptomics, I have identified several key developmental processes that are aberrant in the meninges and in the developing brain. Currently I am using electroporation to rescue these signaling mechanisms to rescue brain development, neurogenesis, neural migration, and cell cycle exit in basal apical progenitors.
+
+
+## Education
+
+**University of Colorado Anschutz Medical Campus** | Aurora, CO
+
+Ph.D. in Neuroscience | July 2019 - present
+
+**Coe College** | Cedar Rapids, IA
+
+B.A. in Molecular Biology | September 2012 - May 2016
+
+## Experience
+
+**University of Colorado ** | Research Assistant | August 2016 - August 2019
+
+
